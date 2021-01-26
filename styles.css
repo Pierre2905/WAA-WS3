@@ -2,14 +2,14 @@ em{
 background-color: #fbff00;    /* Light blue */
 }
 div{
-    padding: 20px 10px;  /* Vertical  Horizontal */
+    padding: 20px 20px;  /* Vertical  Horizontal */
     border: 3px solid #e08eb4;
-    background-color: #e9d0dd;
+    background-color: #ebcbdb;
     box-sizing: border-box;
-    text-align: center;
+    /*text-align: center;*/
     width: 400px;
     margin: 20px auto;
 }
 ul,li{
-    background-color:#e9d0dd;
+    background-color:#ebcbdb;
 }
