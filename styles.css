@@ -1,6 +1,5 @@
 em{
 background-color: #fbff00;    /* Light blue */
-font-family: "Helvetica Neue", "Arial",  sans-serif;
 }
 div{
     padding: 20px 20px;  /* Vertical  Horizontal */
@@ -10,9 +9,7 @@ div{
     /*text-align: center;*/
     width: 400px;
     margin: 20px auto;
-    font-family: "Helvetica Neue", "Arial",  sans-serif;
 }
 ul,li{
     background-color:#ebcbdb;
-    font-family: "Helvetica Neue", "Arial",  sans-serif;
 }
